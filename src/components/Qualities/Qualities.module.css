@@ -1,0 +1,26 @@
+.Qualities {
+  border: 1px solid black;
+  padding: 5px 10px;
+  color: black;
+  border-radius: 5px;
+  margin-left: 3px;
+}
+.info {
+  background-color: aqua;
+}
+.dark {
+  background-color: black;
+  color: #ffffff;
+}
+.danger {
+  background-color: red;
+}
+.success {
+  background-color: green;
+}
+.secondary {
+  background-color: blueviolet;
+}
+.primary {
+  background-color: cadetblue;
+}
